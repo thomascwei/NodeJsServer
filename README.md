@@ -890,3 +890,9 @@ Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbW
 | --------- | -------- | -------------------------------- |
 | status  | int    | 請求是否成功，0：成功；1：失敗 |
 | message | string | 請求結果的描述消息             |
+
+
+```
+npm i
+```
+在package.json同一層目錄下執行以下載所有套件
